@@ -1,0 +1,6 @@
+
+//Parcel Example - all that is required is parcels weight
+{"weight": 10}
+
+//Truck Example - all that is required is the parcels name
+{"name": "Truck 1"}
